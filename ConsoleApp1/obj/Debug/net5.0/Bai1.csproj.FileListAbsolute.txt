@@ -1,0 +1,15 @@
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Bai1.exe
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Bai1.deps.json
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Bai1.runtimeconfig.json
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Bai1.runtimeconfig.dev.json
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Bai1.dll
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Bai1.dll
+D:\bt sv\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Bai1.pdb
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.AssemblyInfoInputs.cache
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.AssemblyInfo.cs
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.csproj.CoreCompileInputs.cache
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.dll
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Bai1.dll
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.pdb
+D:\bt sv\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Bai1.genruntimeconfig.cache
