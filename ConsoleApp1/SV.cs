@@ -50,10 +50,10 @@ namespace Bai1
             this.DTH = DTH;
         }
         public SV() {
-            MaSV = 0;
-            Hoten = "";
-            DLT = 0;
-            DTH = 0;
+            MaSV = 2012;
+            Hoten = "nguyen";
+            DLT = 6;
+            DTH = 2;
         }
         public void nhap() {
             Console.WriteLine("Moi nhap ma so sinh vien");
