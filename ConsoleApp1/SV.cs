@@ -66,11 +66,8 @@ namespace Bai1
             DTH = float.Parse(Console.ReadLine());
         }
         public void xuat() {
-            Console.WriteLine("MSSV:{0}",MaSV);
-            Console.WriteLine("Ho va Ten:{0}", Hoten);
-            Console.WriteLine("DLT:{0}", DLT);
-            Console.WriteLine("DTH:{0}", DTH);
-            Console.WriteLine("DTB:{0}", DTB(DLT,DTH));
+            Console.WriteLine("MSSV\t Hoten \t\t\t\t diemlt\t diemth\t diemtb ");
+            Console.WriteLine("{0} \t {1} \t\t\t\t {2} \t {3} \t {4}\n",MaSV,Hoten,DLT,DTH,DTB(DLT,DTH));
         }
         public double DTB(float DLT, float DTH) {
             return (DLT + DTH) / 2;
